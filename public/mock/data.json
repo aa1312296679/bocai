@@ -1,0 +1,11 @@
+{
+  "home": {
+    "test": "模拟数据"
+  },
+  "footerInfors": [
+    {"txt":"首页","routerPath":"/","ico":"index"},
+    {"txt":"成员","routerPath":"","ico":"member"},
+    {"txt":"客服","routerPath":"","ico":"customer_service"},
+    {"txt":"我的","routerPath":"/about","ico":"about_me"}
+  ]
+}
